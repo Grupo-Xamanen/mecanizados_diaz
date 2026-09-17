@@ -1,0 +1,93 @@
+1. IDENTIDAD VISUAL Y CRITERIOS DE DISEÑO
+Antes de comenzar con el rediseño y la organización de la página web de Mecanizados Díaz, debemos establecer los elementos visuales que serán utilizados de manera consistente en todo el sitio.
+Definir estos elementos en primera instancia permitirá mantener una imagen profesional, coherente y reconocible en todas las secciones de la página.
+1.1. Paleta de colores
+La página web utilizará una paleta de colores principal compuesta por:
+Color primario — Naranja:
+#F84F00
+Será utilizado principalmente para destacar elementos importantes de la página, llamados a la acción (CTA), botones, enlaces destacados, detalles gráficos y otros elementos que requieran captar la atención del usuario.
+Color secundario — Azul oscuro:
+#03045A
+Será utilizado como color institucional y de soporte. Se aplicará principalmente en títulos, fondos, textos destacados, secciones, menús y elementos que requieran transmitir una imagen de solidez, profesionalismo y carácter industrial.
+La combinación del naranja y el azul oscuro será la base visual de la identidad de Mecanizados Díaz dentro del sitio web.
+1.2. Tipografía
+La tipografía principal seleccionada será Poppins.
+Poppins será utilizada de manera consistente en títulos, subtítulos, textos, botones y demás elementos de la interfaz.
+Su estilo moderno, geométrico y de buena legibilidad permitirá construir una imagen tecnológica, profesional y contemporánea, adecuada para una empresa dedicada al mecanizado CNC y a los servicios industriales.
+1.3. Criterio general
+A partir de estos elementos se deberá mantener una identidad visual uniforme en toda la página.
+Los colores y la tipografía no deberán modificarse arbitrariamente entre secciones. Cada elemento visual deberá responder a una misma línea gráfica para que el usuario perciba la página como una única identidad corporativa y no como un conjunto de páginas independientes.
+Estos criterios serán la base sobre la cual se desarrollarán posteriormente la estructura, el contenido, las imágenes, los botones, las secciones y la experiencia de navegación de la página web. Revisar imagen portada y estilo de diseño.jpg
+
+
+
+
+2. TEXTO PARA PORTADA
+MD MECANIZADOS CNC
+Tecnología y soluciones para la industria
+Integramos mecanizado CNC, importaciones y formación técnica especializada, ofreciendo soluciones orientadas a las necesidades de la industria.
+[ CONOCER NUESTROS SERVICIOS ]
+[ CONTACTANOS ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. TEXTO DE SECCIÓN DE TRABAJOS
+SI EXISTE, PODEMOS HACERLO
+Todas las Industrias
+Minería
+Petrolera
+Producción en Serie
+Ingeniería Inversa
+AQUÍ EN LA CARPETA DE FOTOS DE ADJUNTARE LAS FOTOS PARA UTILIZAR EN ESTA PARTE. 
+Diseñar estilo grid sumatorio es decir que conforme suba foto se vaya completando
+NOTA: CON IA O RECOTANDO LA FOTO DEBERIA SALIR TODAS EN FORMATO 1X1
+
+
+
+
+
+
+
+
+Etapa 4… vamos a utilizar estas imágenes explicando un poquito, imagen nuestros trabajos.jpg
+
+ENGRANAJE CÓNICO DE 800 MM – OTRA SECCION QUE SUME CONFORME SE AGREGAN TIPOS DE FABRICACIONES, FOTO ENGRANAJE CÓNICO DE 800 MM JPG
+Fabricación de engranaje cónico de gran porte para la industria calera de San Juan.
+Diseñamos y fabricamos un engranaje cónico de 800 mm de diámetro, destinado a maquinaria de trabajo continuo en la industria calera.
+El componente fue fabricado en acero SAE 4140 bonificado, seleccionado por sus excelentes propiedades mecánicas y su capacidad para soportar altas cargas, esfuerzos de transmisión y condiciones de trabajo exigentes.
+El proyecto involucró mecanizado CNC de precisión, generación del dentado, control dimensional y terminación final, asegurando la correcta geometría y funcionamiento del conjunto.
+Una pieza de gran porte, fabricada íntegramente en Argentina y desarrollada para responder a las exigencias de la industria.
+MD Mecanizados CNC — Fabricación de precisión para aplicaciones industriales.
+
+
+
+
+
+
+
+Etapa 5 Aquí colocaremos las fotos de las dos maquinas cnc… excplicando que maqunaria son…  FOTO NUESTRA TECNOLOGÍA.JPGNUESTRA TECNOLOGÍA
+Contamos con un parque de maquinaria CNC orientado a la fabricación de piezas de precisión para aplicaciones industriales, combinando capacidad de fresado y torneado para resolver una amplia variedad de componentes.
+CENTRO DE MECANIZADO CNC HAAS VF-4 + 4.º EJE
+Nuestro centro de mecanizado vertical Haas VF-4, equipado con 4.º eje, nos permite realizar operaciones de fresado, perforado, roscado, interpolaciones y mecanizados complejos en múltiples caras de una misma pieza.
+Cuenta con recorridos de 1.270 mm en X, 508 mm en Y y 635 mm en Z, ofreciendo una amplia envolvente de trabajo para la fabricación de componentes industriales de diferentes dimensiones. 
+La incorporación del 4.º eje amplía nuestras posibilidades de mecanizado, permitiendo trabajar piezas cilíndricas, realizar divisiones angulares y mecanizar diferentes caras con mayor precisión y repetibilidad.
+TORNO CNC CLEVER – GRAN CAPACIDAD
+Nuestro torno CNC Clever está preparado para el mecanizado de piezas de hasta 1.500 mm de longitud, con un pasaje de barra de Ø70 mm y una capacidad de mecanizado de hasta Ø500 mm.
+Esta capacidad nos permite fabricar ejes, bujes, roscas, componentes de transmisión, piezas de maquinaria y componentes industriales de gran tamaño, trabajando tanto en piezas unitarias como en series.
+La combinación de nuestro centro de mecanizado Haas VF-4 con 4.º eje y nuestro torno CNC Clever nos permite abordar una amplia variedad de trabajos, desde piezas de geometría compleja hasta componentes de revolución de gran tamaño, manteniendo un enfoque en precisión, repetibilidad y calidad de fabricación.
+MD Mecanizados CNC — Tecnología CNC para resolver trabajos industriales de precisión.
+
+Etapa 6 
+Aquí deberían aparecer las portadas de mis videos de youtube… que lleven a una pestaña donde se verán todos mis videos de youtube como los del siguiente link… 
+https://titansofcnc.com/collections/titans-of-cnc-academies
